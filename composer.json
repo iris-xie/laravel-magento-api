@@ -5,7 +5,7 @@
         "grayloon",
         "laravel-magento-api"
     ],
-    "homepage": "https://github.com/grayloon/laravel-magento-api",
+    "homepage": "https://github.com/iris-xie/laravel-magento-api",
     "license": "MIT",
     "type": "library",
     "authors": [
