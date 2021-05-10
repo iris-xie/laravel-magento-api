@@ -1,5 +1,5 @@
 {
-    "name": "ares/laravel-magento-api",
+    "name": "ares-xie/laravel-magento-api",
     "description": "Magento 2 REST API Wrapper to export Magento data to use in your Laravel application.",
     "keywords": [
         "grayloon",
